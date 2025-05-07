@@ -16,4 +16,4 @@ A Java-based library management system implementing core OOP concepts:
 1. Compile all Java files:
 ```bash
 javac -d out src/*.java src/models/*.java src/services/*.java src/interfaces/*.java
-java -cp src Main
+java -cp out Main
